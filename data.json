@@ -1,0 +1,30 @@
+{
+    "tutorials": [{
+            "name": "tutorial_inverse-kinematics",
+            "url": "https://github.com/vvv-school/tutorial_inverse-kinematics.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_cartesian-interface",
+            "url": "https://github.com/vvv-school/tutorial_cartesian-interface.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_gaze-interface",
+            "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
+            "score": 1
+        }
+    ],
+
+    "assignments": [{
+            "name": "assignment_inverse-kinematics",
+            "url": "https://github.com/vvv-school/assignment_inverse-kinematics.git",
+            "score": 5
+        },
+        {
+            "name": "assignment_make-it-roll",
+            "url": "https://github.com/vvv-school/assignment_make-it-roll.git",
+            "score": 5
+        }
+    ]
+}
