@@ -321,9 +321,9 @@
 | [tutorial_cartesian-interface-UgoVollhardt](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-UgoVollhardt](https://github.com/vvv18-kinematics/tutorial_gaze-interface-UgoVollhardt) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-UgoVollhardt](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-UgoVollhardt) | :white_check_mark: | **10** |
-| [assignment_make-it-roll-UgoVollhardt](https://github.com/vvv18-kinematics/assignment_make-it-roll-UgoVollhardt) | :x: | **0** |
+| [assignment_make-it-roll-UgoVollhardt](https://github.com/vvv18-kinematics/assignment_make-it-roll-UgoVollhardt) | :white_check_mark: | **2** |
 
-![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
