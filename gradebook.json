@@ -464,8 +464,15 @@
         "score": 1
       }
     ],
-    "assignments": [],
-    "score": 1
+    "assignments": [
+      {
+        "name": "assignment_inverse-kinematics-science-code",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-08 12:12:42 UTC",
+        "score": 6
+      }
+    ],
+    "score": 7
   },
   {
     "username": "yidiem",
