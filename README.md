@@ -215,10 +215,10 @@
 | [tutorial_inverse-kinematics-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/tutorial_gaze-interface-JuanMiguelAlvarez) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-JuanMiguelAlvarez) | :x: | **0** |
+| [assignment_inverse-kinematics-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-JuanMiguelAlvarez) | :white_check_mark: | **10** |
 | [assignment_make-it-roll-JuanMiguelAlvarez](https://github.com/vvv18-kinematics/assignment_make-it-roll-JuanMiguelAlvarez) | :white_check_mark: | **7** |
 
-![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
