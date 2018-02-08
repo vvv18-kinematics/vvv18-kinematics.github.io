@@ -67,10 +67,10 @@
 | [tutorial_inverse-kinematics-osm3000](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-osm3000) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-osm3000](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-osm3000) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-osm3000](https://github.com/vvv18-kinematics/tutorial_gaze-interface-osm3000) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-osm3000](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-osm3000) | :x: | **0** |
+| [assignment_inverse-kinematics-osm3000](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-osm3000) | :white_check_mark: | **10** |
 | [assignment_make-it-roll-osm3000](https://github.com/vvv18-kinematics/assignment_make-it-roll-osm3000) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
 
 ---
 
