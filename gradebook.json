@@ -362,9 +362,15 @@
   },
   {
     "username": "marco-monforte",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_inverse-kinematics-marco-monforte",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "njm12",
