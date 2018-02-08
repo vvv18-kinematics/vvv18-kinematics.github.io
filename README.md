@@ -342,9 +342,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-yidiem](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-yidiem) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-yidiem](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-yidiem) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-yidiem](https://github.com/vvv18-kinematics/tutorial_gaze-interface-yidiem) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-yidiem](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-yidiem) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
