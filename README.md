@@ -171,9 +171,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-Rayne91](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-Rayne91) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-Rayne91](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-Rayne91) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-Rayne91](https://github.com/vvv18-kinematics/tutorial_gaze-interface-Rayne91) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-Rayne91](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-Rayne91) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
 
 ---
 
