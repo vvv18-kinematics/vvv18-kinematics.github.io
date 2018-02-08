@@ -333,9 +333,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-science-code](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-science-code) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-science-code](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-science-code) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-science-code](https://github.com/vvv18-kinematics/tutorial_gaze-interface-science-code) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-science-code](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-science-code) | :white_check_mark: | **6** |
 
-![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
 
 ---
 

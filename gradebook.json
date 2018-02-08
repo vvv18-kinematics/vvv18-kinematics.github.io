@@ -662,6 +662,11 @@
         "name": "tutorial_cartesian-interface-science-code",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_gaze-interface-science-code",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -672,7 +677,7 @@
         "score": 6
       }
     ],
-    "score": 8
+    "score": 9
   },
   {
     "username": "yidiem",
