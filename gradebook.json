@@ -495,6 +495,11 @@
         "name": "tutorial_inverse-kinematics-UgoVollhardt",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_cartesian-interface-UgoVollhardt",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -505,7 +510,7 @@
         "score": 10
       }
     ],
-    "score": 11
+    "score": 12
   },
   {
     "username": "fbottarel",
