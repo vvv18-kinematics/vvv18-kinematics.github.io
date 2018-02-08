@@ -254,7 +254,11 @@
 
 ### [**UgoVollhardt**](https://github.com/UgoVollhardt) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_inverse-kinematics-UgoVollhardt](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-UgoVollhardt) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
