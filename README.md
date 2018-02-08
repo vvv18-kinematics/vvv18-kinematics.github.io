@@ -140,9 +140,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-jtalamini](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-jtalamini) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-jtalamini](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-jtalamini) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-jtalamini](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-jtalamini) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
 ---
 
