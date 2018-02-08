@@ -505,11 +505,11 @@
     "assignments": [
       {
         "name": "assignment_inverse-kinematics-DonatiElisa",
-        "status": ":x:",
-        "last_commit_date": "2018-01-31 16:10:34 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-08 13:15:25 UTC",
+        "score": 10
       }
     ],
-    "score": 1
+    "score": 11
   }
 ]
