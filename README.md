@@ -261,6 +261,7 @@
 | [tutorial_cartesian-interface-AbbasSidaoui](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-AbbasSidaoui) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-AbbasSidaoui](https://github.com/vvv18-kinematics/tutorial_gaze-interface-AbbasSidaoui) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-AbbasSidaoui](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-AbbasSidaoui) | :x: | **0** |
+| [assignment_make-it-roll-AbbasSidaoui](https://github.com/vvv18-kinematics/assignment_make-it-roll-AbbasSidaoui) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
