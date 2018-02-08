@@ -319,9 +319,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-nikmayr2](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-nikmayr2) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-nikmayr2](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-nikmayr2) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-nikmayr2](https://github.com/vvv18-kinematics/tutorial_gaze-interface-nikmayr2) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-nikmayr2](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-nikmayr2) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
