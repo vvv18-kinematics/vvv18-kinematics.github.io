@@ -397,6 +397,11 @@
         "name": "tutorial_inverse-kinematics-marco-monforte",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_cartesian-interface-marco-monforte",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -407,7 +412,7 @@
         "score": 14
       }
     ],
-    "score": 15
+    "score": 16
   },
   {
     "username": "njm12",
