@@ -113,6 +113,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-anqingd](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-anqingd) | :white_check_mark: | **1** |
+| [assignment_inverse-kinematics-anqingd](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-anqingd) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
