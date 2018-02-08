@@ -325,9 +325,9 @@
     "assignments": [
       {
         "name": "assignment_inverse-kinematics-anqingd",
-        "status": ":x:",
-        "last_commit_date": "2018-01-31 16:10:34 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-08 18:19:24 UTC",
+        "score": 14
       },
       {
         "name": "assignment_make-it-roll-anqingd",
@@ -336,7 +336,7 @@
         "score": 5
       }
     ],
-    "score": 3
+    "score": 17
   },
   {
     "username": "ericpairet",
