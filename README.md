@@ -5,6 +5,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-atabakd](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-atabakd) | :white_check_mark: | **1** |
+| [assignment_inverse-kinematics-atabakd](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-atabakd) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
