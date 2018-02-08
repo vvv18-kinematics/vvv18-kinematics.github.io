@@ -786,12 +786,12 @@
       },
       {
         "name": "assignment_make-it-roll-fbottarel",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2018-02-08 21:42:25 UTC",
-        "score": 7
+        "status": ":x:",
+        "last_commit_date": "2018-02-08 22:09:55 UTC",
+        "score": 5
       }
     ],
-    "score": 24
+    "score": 17
   },
   {
     "username": "nikmayr2",
