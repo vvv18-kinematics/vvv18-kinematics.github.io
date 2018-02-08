@@ -198,9 +198,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-umgnunes](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-umgnunes) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-umgnunes](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-umgnunes) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-umgnunes](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-umgnunes) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
 ---
 
