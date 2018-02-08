@@ -223,6 +223,7 @@
 | [tutorial_cartesian-interface-umgnunes](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-umgnunes](https://github.com/vvv18-kinematics/tutorial_gaze-interface-umgnunes) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-umgnunes](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-umgnunes) | :white_check_mark: | **14** |
+| [assignment_make-it-roll-umgnunes](https://github.com/vvv18-kinematics/assignment_make-it-roll-umgnunes) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
