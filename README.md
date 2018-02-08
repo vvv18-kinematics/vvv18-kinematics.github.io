@@ -42,9 +42,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-ninja777](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-ninja777) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-ninja777](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-ninja777) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-ninja777](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-ninja777) | :white_check_mark: | **6** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
