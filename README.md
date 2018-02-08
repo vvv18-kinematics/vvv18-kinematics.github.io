@@ -83,9 +83,9 @@
 | [tutorial_cartesian-interface-mkthabet](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-mkthabet) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-mkthabet](https://github.com/vvv18-kinematics/tutorial_gaze-interface-mkthabet) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-mkthabet](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-mkthabet) | :white_check_mark: | **10** |
-| [assignment_make-it-roll-mkthabet](https://github.com/vvv18-kinematics/assignment_make-it-roll-mkthabet) | :white_check_mark: | **2** |
+| [assignment_make-it-roll-mkthabet](https://github.com/vvv18-kinematics/assignment_make-it-roll-mkthabet) | :white_check_mark: | **7** |
 
-![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
