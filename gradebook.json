@@ -360,12 +360,12 @@
     "assignments": [
       {
         "name": "assignment_inverse-kinematics-ericpairet",
-        "status": ":x:",
-        "last_commit_date": "2018-01-31 16:10:34 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-08 16:07:45 UTC",
+        "score": 14
       }
     ],
-    "score": 3
+    "score": 17
   },
   {
     "username": "jtalamini",
