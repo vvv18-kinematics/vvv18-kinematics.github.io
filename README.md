@@ -82,9 +82,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-Meylina](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-Meylina) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-Meylina](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-Meylina) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-Meylina](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-Meylina) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
