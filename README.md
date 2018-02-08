@@ -37,10 +37,10 @@
 | [tutorial_inverse-kinematics-prashanthr05](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-prashanthr05) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-prashanthr05](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-prashanthr05) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-prashanthr05](https://github.com/vvv18-kinematics/tutorial_gaze-interface-prashanthr05) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-prashanthr05](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-prashanthr05) | :white_check_mark: | **10** |
+| [assignment_inverse-kinematics-prashanthr05](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-prashanthr05) | :white_check_mark: | **14** |
 | [assignment_make-it-roll-prashanthr05](https://github.com/vvv18-kinematics/assignment_make-it-roll-prashanthr05) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 
