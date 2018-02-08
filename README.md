@@ -228,9 +228,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-samvinanzi](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-samvinanzi) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-samvinanzi](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-samvinanzi) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-samvinanzi](https://github.com/vvv18-kinematics/tutorial_gaze-interface-samvinanzi) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-samvinanzi](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-samvinanzi) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
