@@ -8,9 +8,9 @@
 | [tutorial_cartesian-interface-atabakd](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-atabakd) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-atabakd](https://github.com/vvv18-kinematics/tutorial_gaze-interface-atabakd) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-atabakd](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-atabakd) | :white_check_mark: | **9** |
-| [assignment_make-it-roll-atabakd](https://github.com/vvv18-kinematics/assignment_make-it-roll-atabakd) | :x: | **0** |
+| [assignment_make-it-roll-atabakd](https://github.com/vvv18-kinematics/assignment_make-it-roll-atabakd) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 
