@@ -233,9 +233,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-marco-monforte](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-marco-monforte) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-marco-monforte](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-marco-monforte) | :x: | **0** |
+| [assignment_inverse-kinematics-marco-monforte](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-marco-monforte) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
