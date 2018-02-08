@@ -624,12 +624,12 @@
     "assignments": [
       {
         "name": "assignment_inverse-kinematics-raedbsili1991",
-        "status": ":x:",
-        "last_commit_date": "2018-02-08 15:45:43 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-08 16:31:46 UTC",
+        "score": 8
       }
     ],
-    "score": 2
+    "score": 10
   },
   {
     "username": "marco-monforte",
