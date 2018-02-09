@@ -248,9 +248,9 @@
 | [tutorial_cartesian-interface-samvinanzi](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-samvinanzi) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-samvinanzi](https://github.com/vvv18-kinematics/tutorial_gaze-interface-samvinanzi) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-samvinanzi](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-samvinanzi) | :white_check_mark: | **14** |
-| [assignment_make-it-roll-samvinanzi](https://github.com/vvv18-kinematics/assignment_make-it-roll-samvinanzi) | :x: | **0** |
+| [assignment_make-it-roll-samvinanzi](https://github.com/vvv18-kinematics/assignment_make-it-roll-samvinanzi) | :white_check_mark: | **7** |
 
-![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-24-brightgreen.svg?style=flat-square)
 
 ---
 
