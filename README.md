@@ -53,9 +53,9 @@
 | [tutorial_cartesian-interface-ninja777](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-ninja777) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-ninja777](https://github.com/vvv18-kinematics/tutorial_gaze-interface-ninja777) | :white_check_mark: | **1** |
 | [assignment_inverse-kinematics-ninja777](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-ninja777) | :white_check_mark: | **14** |
-| [assignment_make-it-roll-ninja777](https://github.com/vvv18-kinematics/assignment_make-it-roll-ninja777) | :x: | **0** |
+| [assignment_make-it-roll-ninja777](https://github.com/vvv18-kinematics/assignment_make-it-roll-ninja777) | :white_check_mark: | **7** |
 
-![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-24-brightgreen.svg?style=flat-square)
 
 ---
 
