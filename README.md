@@ -396,9 +396,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_inverse-kinematics-DonatiElisa](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-DonatiElisa) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-DonatiElisa](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-DonatiElisa) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-DonatiElisa](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-DonatiElisa) | :white_check_mark: | **10** |
+| [assignment_inverse-kinematics-DonatiElisa](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-DonatiElisa) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
 ---
 
