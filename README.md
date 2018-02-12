@@ -112,10 +112,10 @@
 | [tutorial_inverse-kinematics-kosenhitatchi](https://github.com/vvv18-kinematics/tutorial_inverse-kinematics-kosenhitatchi) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-kosenhitatchi](https://github.com/vvv18-kinematics/tutorial_cartesian-interface-kosenhitatchi) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-kosenhitatchi](https://github.com/vvv18-kinematics/tutorial_gaze-interface-kosenhitatchi) | :white_check_mark: | **1** |
-| [assignment_inverse-kinematics-kosenhitatchi](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-kosenhitatchi) | :white_check_mark: | **14** |
+| [assignment_inverse-kinematics-kosenhitatchi](https://github.com/vvv18-kinematics/assignment_inverse-kinematics-kosenhitatchi) | :x: | **0** |
 | [assignment_make-it-roll-kosenhitatchi](https://github.com/vvv18-kinematics/assignment_make-it-roll-kosenhitatchi) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
