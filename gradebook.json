@@ -266,9 +266,9 @@
     "assignments": [
       {
         "name": "assignment_inverse-kinematics-kosenhitatchi",
-        "status": ":x:",
+        "status": ":white_check_mark:",
         "last_commit_date": "2018-02-12 08:37:36 UTC",
-        "score": 5
+        "score": 14
       },
       {
         "name": "assignment_make-it-roll-kosenhitatchi",
